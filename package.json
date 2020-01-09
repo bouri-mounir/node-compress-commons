@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/archiverjs/node-compress-commons.git"
+    "url": "https://github.com/istex/node-compress-commons.git"
   },
   "bugs": {
-    "url": "https://github.com/archiverjs/node-compress-commons/issues"
+    "url": "https://github.com/istex/node-compress-commons/issues"
   },
   "license": "MIT",
   "main": "lib/compress-commons.js",
